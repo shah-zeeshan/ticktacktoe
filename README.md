@@ -17,11 +17,11 @@ Select type of game:
 ## Screenshots
 Select game                |  About
 :-------------------------:|:-------------------------:
-![select game img](screenshot/select-game.PNG)  |  ![about img](screenshot/about.PNG)
+![select game img](screenshots/select-game.PNG)  |  ![about img](screenshots/about.PNG)
 
 Play with friend           |  Play with computer
 :-------------------------:|:-------------------------:
-![select game img](screenshot/play-with-friend.PNG)  |  ![about img](screenshot/play-with-pc.PNG)
+![select game img](screenshots/play-with-friend.PNG)  |  ![about img](screenshots/play-with-pc.PNG)
 
 
 ## Contributing 💡
